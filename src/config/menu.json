@@ -1,0 +1,77 @@
+{
+  "main": [
+    {
+      "name": "Accueil",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Plans",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Entreprise",
+      "menu": [
+        {
+          "text": "Tarifs",
+          "url": "/pricing"
+        },
+        {
+          "text": "démarrage rapide",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Produit",
+      "menu": [
+        {
+          "text": "Caractéristiques",
+          "url": "#"
+        },
+        {
+          "text": "Plateforme",
+          "url": "#"
+        },
+        {
+          "text": "Tarifs",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "/terms-conditions"
+        }
+      ]
+    }
+  ]
+}
